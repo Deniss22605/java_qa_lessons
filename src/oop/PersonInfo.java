@@ -3,8 +3,8 @@ package oop;
 public class PersonInfo {
 
     public static void main(String[] args) {
-        Person zhenya = new Person("Zhenya", "Volkova", 21);
-        zhenya.printPersonInfo();
+        Person artur = new Person("Artur", "Volkova", 21);
+        artur.printPersonInfo();
 
         Person veronika = new Person("Veronika", "Volkova", 25);
         veronika.printPersonInfo();
