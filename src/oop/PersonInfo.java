@@ -3,7 +3,7 @@ package oop;
 public class PersonInfo {
 
     public static void main(String[] args) {
-        Person sveta = new Person("Sveta", "Volkova", 21);
+        Person sveta = new Person("Olya", "Volkova", 21);
         sveta.printPersonInfo();
 
         Person veronika = new Person("Veronika", "Volkova", 25);
